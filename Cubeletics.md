@@ -1,4 +1,4 @@
-![Cubeletics Title.png](/Cubeletics/GDD Images/Cubeletics Title "Cubeletics Title")
+![Cubeletics Title.png](https://github.com/mwb-wiseman/Cubeletics/blob/main/GDD%20Images/Cubeletics%20Title.png "Cubeletics Title")
 
 ## Introduction
 
@@ -45,7 +45,7 @@ If the player hits an obstacle or falls off the side of the course the level res
 
 __Gameflow__
 
-![Cubeletics Gameflow.png](/Cubeletics/GDD Images/Cubeletics Gameflow "Cubeletics Gameflow Diagram")
+![Cubeletics Gameflow.png](https://github.com/mwb-wiseman/Cubeletics/blob/main/GDD%20Images/Cubeletics%20Gameflow.png "Cubeletics Gameflow Diagram")
 
 __Victory Conditions__
 
@@ -57,9 +57,9 @@ Single player.
 
 #### Art
 
-![Cubeletics Art 1.png](/Cubeletics/GDD Images/Cubeletics Art 1 "Cubeletics Art 1")
+![Cubeletics Art 1.png](https://github.com/mwb-wiseman/Cubeletics/blob/main/GDD%20Images/Cubeletics%20Art%201.png "Cubeletics Art 1")
 
-![Cubeletics Art 2.png](/Cubeletics/GDD Images/Cubeletics Art 2 "Cubeletics Art 2")
+![Cubeletics Art 2.png](https://github.com/mwb-wiseman/Cubeletics/blob/main/GDD%20Images/Cubeletics%20Art%202.png "Cubeletics Art 2")
 
 #### Technical Aspects
 
