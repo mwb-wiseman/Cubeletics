@@ -78,7 +78,7 @@ The simplistic design will ensure this game is accessible to a broad audience. T
 
 Comparable games from the market are ZigZag and Temple Run. The main difference between these games and Cubeletics is that they feature a procedurally generated level design. This provides a less tailored experience - the 3 levels of Cubeletics will be designed with a difficulty gradiant to provide players with scaling difficulty and level design that trains them to be better at the game.
 
-The Impossible Game, presented in 2D, gives the player a single input to jump over obstacles in a similar experience to that of Cubeletics. By giving the player a side-on view their reaction time is limited, intensifying the player experience. Cubeletics instead shows the player what is coming ahead on the horizon, giving them slightly longer to prepare and so dropping the intensity for the more casual target audience.
+The Impossible Game, presented in 2D, gives the player a single input to jump over obstacles in a similarly curated experience to that of Cubeletics. By giving the player a side-on view their reaction time is limited, intensifying the player experience. Cubeletics instead shows the player what is coming ahead on the horizon, giving them slightly longer to prepare and so dropping the intensity for the more casual target audience.
 
 ***
 
