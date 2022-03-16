@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This document outlines the plan for the development of an obstacle course running game with curated levels. This project is being undertaken for technical learning purposes (C# language, Unity engine).
+This document outlines the plan for the development of an obstacle course running game with curated levels - a project undertaken for technical learning purposes (C# language, Unity engine).
 
 __Key Learning Objectives__
 
@@ -17,7 +17,7 @@ __Key Learning Objectives__
 
 #### High Concept
 
-Cubeletics is a 3D, single-player game in which the player moves a cube left and right as it slides endlessly forwards to avoid obstacles and reach the end of each level.
+Cubeletics is a 3D, single-player game in which the player steers a cube left and right as it progresses forwards to avoid obstacles and reach the end of each level.
 
 #### Summary Overview
 
@@ -40,9 +40,9 @@ Beneath the title is listed the controls for the game. At the bottom is a button
 
 _In-Game_
 
-The player's cube immediately starts sliding forwards, and can be moved left and right by pressing the 'W' and 'S' keys respectively. At the top of the screen is a printout of the player's current score, which increases as they move forward.
+The player's cube immediately starts progressing forwards, and can be steered left and right by pressing the 'W' and 'S' keys respectively. At the top of the screen is a printout of the player's current score, which increases as they move forward.
 
-If the player hits an obstacle or falls off the side of the course the level resets.
+If the player hits an obstacle or falls off the side of the course, the level resets.
 
 __Gameflow__
 
@@ -72,11 +72,13 @@ Game to be built in Unity for Windows PC, with potential for further iOS build.
 
 #### Target Audience
 
-The simplistic design will ensure this game is accessible to a broad audience. The game is quite challenging to provide longevity to the limited scope of the game's size, which will enhance appeal for players that enjoy working towards a clearly defined goal through practice and repetition.
+The simplistic design will ensure this game is accessible to a broad audience. The game is challenging, which increases playability within the context of the game's limited scope. This will enhance appeal for players that enjoy working towards a clearly defined goal through practice and repetition.
 
 #### Competitors
 
 Comparable games from the market are ZigZag and Temple Run. The main difference between these games and Cubeletics is that they feature a procedurally generated level design. This provides a less tailored experience - the 3 levels of Cubeletics will be designed with a difficulty gradiant to provide players with scaling difficulty and level design that trains them to be better at the game.
+
+The Impossible Game, presented in 2D, gives the player a single input to jump over obstacles in a similar experience to that of Cubeletics. By giving the player a side-on view their reaction time is limited, intensifying the player experience. Cubeletics instead shows the player what is coming ahead on the horizon, giving them slightly longer to prepare and so dropping the intensity for the more casual target audience.
 
 ***
 
